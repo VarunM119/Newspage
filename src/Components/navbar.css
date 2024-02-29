@@ -1,0 +1,19 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar
+{
+    z-index: 1;
+    width: 100%;
+    top: 0px;
+    background-color: darkorchid;
+}
+ul:hover{
+    cursor: pointer;
+    
+}
+
+ul li div{
+    width: 100px;
+    text-align: center;    
+}
